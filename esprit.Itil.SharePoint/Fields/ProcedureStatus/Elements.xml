@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">  
+  <Field
+       ID="{765a3412-a9d1-4090-bded-2175d5498930}"
+       Name="ProcedureStatus"
+       DisplayName="Procedure Status"
+       Type="Text"
+       Required="FALSE"
+       Group="Esprit.Fields">
+  </Field>
+</Elements>
